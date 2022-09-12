@@ -1,0 +1,8 @@
+[12-Jun-2022 04:23:33 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 245760 bytes) in /home/boonafm/public_html/wp-content/plugins/ad-inserter/ad-inserter.php on line 11377
+[14-Jun-2022 13:21:41 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/boonafm/public_html/wp-settings.php on line 221
+[14-Jun-2022 15:33:57 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 245760 bytes) in /home/boonafm/public_html/wp-content/plugins/ad-inserter/ad-inserter.php on line 11377
+[14-Jun-2022 15:36:47 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/boonafm/public_html/wp-includes/wp-db.php on line 2169
+[14-Jun-2022 15:48:57 UTC] PHP Warning:  mysqli_set_charset(): Error executing query in /home/boonafm/public_html/wp-includes/wp-db.php on line 884
+[14-Jun-2022 17:47:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pspell.so' (tried: /opt/cpanel/ea-php74/root/usr/lib64/php/modules/pspell.so (libaspell.so.15: failed to map segment from shared object: Cannot allocate memory), /opt/cpanel/ea-php74/root/usr/lib64/php/modules/pspell.so.so (/opt/cpanel/ea-php74/root/usr/lib64/php/modules/pspell.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[14-Jun-2022 18:23:32 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/boonafm/public_html/wp-includes/wp-db.php on line 2169
+[14-Jun-2022 18:45:49 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/boonafm/public_html/wp-includes/wp-db.php on line 2169
